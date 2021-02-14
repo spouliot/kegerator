@@ -1,0 +1,20 @@
+{
+	"files.associations": {
+		"functional": "cpp",
+		"random": "cpp",
+		"array": "cpp",
+		"*.tcc": "cpp",
+		"deque": "cpp",
+		"string": "cpp",
+		"unordered_map": "cpp",
+		"unordered_set": "cpp",
+		"vector": "cpp",
+		"memory": "cpp",
+		"initializer_list": "cpp",
+		"regex": "cpp",
+		"system_error": "cpp",
+		"tuple": "cpp",
+		"type_traits": "cpp",
+		"utility": "cpp"
+	}
+}
